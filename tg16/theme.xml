@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+
+	<view name="system">
+		<image name="logo">
+			<path>./_inc/system.png</path>
+		</image>
+      <image name="system-background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <tile>false</tile>
+         <path>./_inc/background.png</path>
+      </image>		
+	</view>
+	<view name="basic">
+                <image name="background" extra="true">
+                   <origin>0 0</origin>
+                   <pos>0 0</pos>
+                   <size>1 1</size>
+				   <zIndex>1</zIndex>
+                   <path>./_inc/background.png</path>
+                </image>
+				<image name="label" extra="true">
+                   <origin>0 0</origin>
+                   <pos>0 0</pos>
+                   <size>1 1</size>
+				   <zIndex>1</zIndex>
+                   <path>./_inc/label.png</path>
+                </image>		
+	</view>
+	<view name="detailed, video">
+                <image name="background" extra="true">
+                   <origin>0 0</origin>
+                   <pos>0 0</pos>
+                   <size>1 1</size>
+				   <zIndex>1</zIndex>
+                   <path>./_inc/background.png</path>
+                </image>
+				<image name="label" extra="true">
+                   <origin>0 0</origin>
+                   <pos>0 0</pos>
+                   <size>1 1</size>
+				   <zIndex>1</zIndex>
+                   <path>./_inc/label.png</path>
+                </image>
+				<image name="crt" extra="true">
+                   <origin>0 0</origin>
+                   <pos>0 0</pos>
+                   <size>1 1</size>
+				   <zIndex>1</zIndex>
+                   <path>./_inc/crt.png</path>
+                </image>
+	</view>
+
+</theme>
