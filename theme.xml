@@ -104,6 +104,7 @@ version         1.0
          <pos>0.775 0.275</pos>
          <size>0.21 0.59</size>
          <alignment>left</alignment>
+         <zIndex>50</zIndex>
       </textlist>
    </view>
 
