@@ -1,12 +1,12 @@
-# HURSTY BLUE
+# Unified
 
 #####################################################################################
 
 OVERVIEW
 
-This ZIP package contains the Hursty Blue theme that is to be used within Emulation Station.
+This ZIP package contains the Unified theme that is to be used within Emulation Station.
 
-Originally written as a theme for the Attract Mode front-end, this is an Emulation Station port of that theme.
+This is an Emulation Station port of CriticalCid's Launchbox/Bigbox theme.
 
 NOTE
 
