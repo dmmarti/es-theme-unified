@@ -115,6 +115,12 @@ version         1.0
          <zIndex>5</zIndex>
          <maxSize>0.375 0.5</maxSize>
       </image>
+	  <image name="md_marquee">
+         <origin>0.5 0.5</origin>
+         <pos>1.6285 0.62</pos>
+         <zIndex>5</zIndex>
+         <maxSize>0.25 0.45</maxSize>
+      </image>
    </view>
 
    <view name="video">
@@ -127,6 +133,12 @@ version         1.0
 	  <image name="md_image">
          <origin>0.5 0.5</origin>
          <pos>0.6285 0.62</pos>
+         <zIndex>5</zIndex>
+         <maxSize>0.25 0.45</maxSize>
+      </image>
+	  <image name="md_marquee">
+         <origin>0.5 0.5</origin>
+         <pos>1.6285 0.62</pos>
          <zIndex>5</zIndex>
          <maxSize>0.25 0.45</maxSize>
       </image>
