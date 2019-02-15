@@ -49,7 +49,7 @@
                    <origin>0 0</origin>
                    <pos>0 0</pos>
                    <size>1 1</size>
-				   <zIndex>40</zIndex>
+				   <zIndex>1</zIndex>
                    <path>./_inc/crt.png</path>
                 </image>
 	</view>
